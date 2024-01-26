@@ -1,0 +1,25 @@
+Karl Macayan 101368449
+
+What is the definition of server port?
+Server ports are like different doors in a big building. Each door is for a specific type of traffic, like mail, visitors, or deliveries. Just as you use the right door for the right purpose, data uses the right port to get where it needs to go on a server.
+
+What is server port range?
+
+The server port range is a set of numbers used for network communication. It goes from 0 to 65535 and allows different types of data to flow in and out of a server.
+
+How many bits does number above represent?
+
+The number above, 65535, represents 16 bits.
+
+State 10 common server ports:
+
+Port 80: The bustling thoroughfare of HTTP communication.
+Port 443: The secure gateway adorned with the SSL/TLS insignia.
+Port 22: The fortress of secure shell connections, where cryptographic whispers resonate.
+Port 25: The postal hub for electronic mail, where messages embark on their digital journey.
+Port 3306: The sanctum of MySQL, where databases whisper tales of structured queries.
+Port 3389: The portal to remote desktop enchantments, bridging distant realms with visual grace.
+Port 5432: The citadel of PostgreSQL, where relational wisdom flows through structured gates.
+Port 27017: The harmonious abode of MongoDB, orchestrating the symphony of NoSQL interactions.
+Port 8080: The avant-garde boulevard where alternative HTTP voyages embark on unconventional routes.
+Port 1433: The fortress of Microsoft SQL Server, where relational databases find solace in the embrace of Windows.
