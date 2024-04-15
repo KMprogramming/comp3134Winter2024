@@ -1,0 +1,540 @@
+03:15:29.098216 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 113072:113296, ack 1, win 501, options [nop,nop,TS val 120385167 ecr 2364669678], length 224
+03:15:29.098370 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 113296:113856, ack 1, win 501, options [nop,nop,TS val 120385167 ecr 2364669678], length 560
+03:15:29.098446 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 113856:114224, ack 1, win 501, options [nop,nop,TS val 120385167 ecr 2364669678], length 368
+03:15:29.098501 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 114224:114576, ack 1, win 501, options [nop,nop,TS val 120385167 ecr 2364669678], length 352
+03:15:29.098572 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 114576:114928, ack 1, win 501, options [nop,nop,TS val 120385167 ecr 2364669678], length 352
+03:15:29.098613 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 114928:114992, ack 1, win 501, options [nop,nop,TS val 120385167 ecr 2364669678], length 64
+03:15:29.112909 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 113296, win 2422, options [nop,nop,TS val 2364669781 ecr 120385167], length 0
+03:15:29.112909 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 113856, win 2441, options [nop,nop,TS val 2364669782 ecr 120385167], length 0
+03:15:29.113036 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 114224, win 2460, options [nop,nop,TS val 2364669782 ecr 120385167], length 0
+03:15:29.113036 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 114576, win 2479, options [nop,nop,TS val 2364669782 ecr 120385167], length 0
+03:15:29.113103 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 114928, win 2497, options [nop,nop,TS val 2364669782 ecr 120385167], length 0
+03:15:29.113122 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 114992, win 2497, options [nop,nop,TS val 2364669782 ecr 120385167], length 0
+03:15:29.202143 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 114992:115216, ack 1, win 501, options [nop,nop,TS val 120385271 ecr 2364669782], length 224
+03:15:29.202287 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 115216:115936, ack 1, win 501, options [nop,nop,TS val 120385271 ecr 2364669782], length 720
+03:15:29.202374 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 115936:116464, ack 1, win 501, options [nop,nop,TS val 120385271 ecr 2364669782], length 528
+03:15:29.202460 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 116464:116832, ack 1, win 501, options [nop,nop,TS val 120385271 ecr 2364669782], length 368
+03:15:29.202526 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 116832:117184, ack 1, win 501, options [nop,nop,TS val 120385271 ecr 2364669782], length 352
+03:15:29.216898 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 115216, win 2516, options [nop,nop,TS val 2364669885 ecr 120385271], length 0
+03:15:29.216899 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 115936, win 2535, options [nop,nop,TS val 2364669885 ecr 120385271], length 0
+03:15:29.216899 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 116464, win 2554, options [nop,nop,TS val 2364669886 ecr 120385271], length 0
+03:15:29.216984 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 116832, win 2572, options [nop,nop,TS val 2364669886 ecr 120385271], length 0
+03:15:29.217035 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 117184, win 2591, options [nop,nop,TS val 2364669886 ecr 120385271], length 0
+03:15:29.306299 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 117184:117408, ack 1, win 501, options [nop,nop,TS val 120385375 ecr 2364669886], length 224
+03:15:29.306425 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 117408:117632, ack 1, win 501, options [nop,nop,TS val 120385375 ecr 2364669886], length 224
+03:15:29.306521 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 117632:118016, ack 1, win 501, options [nop,nop,TS val 120385375 ecr 2364669886], length 384
+03:15:29.306624 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 118016:118544, ack 1, win 501, options [nop,nop,TS val 120385375 ecr 2364669886], length 528
+03:15:29.306705 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 118544:118896, ack 1, win 501, options [nop,nop,TS val 120385375 ecr 2364669886], length 352
+03:15:29.306776 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 118896:119104, ack 1, win 501, options [nop,nop,TS val 120385375 ecr 2364669886], length 208
+03:15:29.320910 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 117408, win 2610, options [nop,nop,TS val 2364669990 ecr 120385375], length 0
+03:15:29.321043 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 117632, win 2629, options [nop,nop,TS val 2364669990 ecr 120385375], length 0
+03:15:29.321043 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 118016, win 2647, options [nop,nop,TS val 2364669990 ecr 120385375], length 0
+03:15:29.321109 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 118544, win 2666, options [nop,nop,TS val 2364669990 ecr 120385375], length 0
+03:15:29.321187 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 118896, win 2685, options [nop,nop,TS val 2364669990 ecr 120385375], length 0
+03:15:29.321330 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 119104, win 2704, options [nop,nop,TS val 2364669990 ecr 120385375], length 0
+03:15:29.410212 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 119104:119328, ack 1, win 501, options [nop,nop,TS val 120385479 ecr 2364669990], length 224
+03:15:29.410386 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 119328:119888, ack 1, win 501, options [nop,nop,TS val 120385479 ecr 2364669990], length 560
+03:15:29.410506 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 119888:120432, ack 1, win 501, options [nop,nop,TS val 120385479 ecr 2364669990], length 544
+03:15:29.410616 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 120432:120944, ack 1, win 501, options [nop,nop,TS val 120385479 ecr 2364669990], length 512
+03:15:29.410711 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 120944:121312, ack 1, win 501, options [nop,nop,TS val 120385479 ecr 2364669990], length 368
+03:15:29.424933 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 119328, win 2722, options [nop,nop,TS val 2364670094 ecr 120385479], length 0
+03:15:29.424933 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 119888, win 2741, options [nop,nop,TS val 2364670094 ecr 120385479], length 0
+03:15:29.424984 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 120432, win 2760, options [nop,nop,TS val 2364670094 ecr 120385479], length 0
+03:15:29.425107 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 120944, win 2779, options [nop,nop,TS val 2364670094 ecr 120385479], length 0
+03:15:29.425237 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 121312, win 2797, options [nop,nop,TS val 2364670094 ecr 120385479], length 0
+03:15:29.514164 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 121312:121536, ack 1, win 501, options [nop,nop,TS val 120385583 ecr 2364670094], length 224
+03:15:29.514323 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 121536:122256, ack 1, win 501, options [nop,nop,TS val 120385583 ecr 2364670094], length 720
+03:15:29.514425 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 122256:122768, ack 1, win 501, options [nop,nop,TS val 120385583 ecr 2364670094], length 512
+03:15:29.514502 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 122768:123120, ack 1, win 501, options [nop,nop,TS val 120385583 ecr 2364670094], length 352
+03:15:29.514545 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 123120:123184, ack 1, win 501, options [nop,nop,TS val 120385583 ecr 2364670094], length 64
+03:15:29.528801 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 121536, win 2816, options [nop,nop,TS val 2364670197 ecr 120385583], length 0
+03:15:29.528866 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 122256, win 2835, options [nop,nop,TS val 2364670198 ecr 120385583], length 0
+03:15:29.528986 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 122768, win 2854, options [nop,nop,TS val 2364670198 ecr 120385583], length 0
+03:15:29.529065 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 123120, win 2872, options [nop,nop,TS val 2364670198 ecr 120385583], length 0
+03:15:29.529096 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 123184, win 2872, options [nop,nop,TS val 2364670198 ecr 120385583], length 0
+03:15:29.618157 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 123184:123408, ack 1, win 501, options [nop,nop,TS val 120385687 ecr 2364670198], length 224
+03:15:29.618324 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 123408:124432, ack 1, win 501, options [nop,nop,TS val 120385687 ecr 2364670198], length 1024
+03:15:29.618437 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 124432:124944, ack 1, win 501, options [nop,nop,TS val 120385687 ecr 2364670198], length 512
+03:15:29.632930 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 123408, win 2891, options [nop,nop,TS val 2364670301 ecr 120385687], length 0
+03:15:29.632930 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 124432, win 2914, options [nop,nop,TS val 2364670302 ecr 120385687], length 0
+03:15:29.632987 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 124944, win 2933, options [nop,nop,TS val 2364670302 ecr 120385687], length 0
+03:15:29.722348 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 124944:125168, ack 1, win 501, options [nop,nop,TS val 120385791 ecr 2364670302], length 224
+03:15:29.722526 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 125168:126016, ack 1, win 501, options [nop,nop,TS val 120385791 ecr 2364670302], length 848
+03:15:29.736978 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 125168, win 2951, options [nop,nop,TS val 2364670406 ecr 120385791], length 0
+03:15:29.737030 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 126016, win 2974, options [nop,nop,TS val 2364670406 ecr 120385791], length 0
+03:15:29.826250 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 126016:126240, ack 1, win 501, options [nop,nop,TS val 120385895 ecr 2364670406], length 224
+03:15:29.826374 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 126240:126768, ack 1, win 501, options [nop,nop,TS val 120385895 ecr 2364670406], length 528
+03:15:29.840971 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 126240, win 2993, options [nop,nop,TS val 2364670510 ecr 120385895], length 0
+03:15:29.840971 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 126768, win 3011, options [nop,nop,TS val 2364670510 ecr 120385895], length 0
+03:15:29.930282 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 126768:126992, ack 1, win 501, options [nop,nop,TS val 120385999 ecr 2364670510], length 224
+03:15:29.930582 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 126992:127520, ack 1, win 501, options [nop,nop,TS val 120385999 ecr 2364670510], length 528
+03:15:29.944928 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 126992, win 3030, options [nop,nop,TS val 2364670614 ecr 120385999], length 0
+03:15:29.945080 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 127520, win 3049, options [nop,nop,TS val 2364670614 ecr 120385999], length 0
+03:15:29.966048 IP karldrop.http > hostglobal.plus.52190: Flags [S.], seq 3518907882, ack 2581518265, win 64240, options [mss 1460], length 0
+03:15:30.034278 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 127520:127744, ack 1, win 501, options [nop,nop,TS val 120386103 ecr 2364670614], length 224
+03:15:30.034406 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 127744:128416, ack 1, win 501, options [nop,nop,TS val 120386103 ecr 2364670614], length 672
+03:15:30.049027 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 127744, win 3068, options [nop,nop,TS val 2364670717 ecr 120386103], length 0
+03:15:30.049086 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 128416, win 3086, options [nop,nop,TS val 2364670718 ecr 120386103], length 0
+03:15:30.109511 IP 67.207.67.2.domain > karldrop.34840: Flags [F.], seq 303, ack 140, win 128, options [nop,nop,TS val 4162056271 ecr 2264398480], length 0
+03:15:30.109665 IP karldrop.34840 > 67.207.67.2.domain: Flags [F.], seq 140, ack 304, win 502, options [nop,nop,TS val 2264400486 ecr 4162056271], length 0
+03:15:30.110922 IP 67.207.67.2.domain > karldrop.34840: Flags [.], ack 141, win 128, options [nop,nop,TS val 4162056273 ecr 2264400486], length 0
+03:15:30.138162 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 128416:128640, ack 1, win 501, options [nop,nop,TS val 120386207 ecr 2364670718], length 224
+03:15:30.138328 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 128640:129168, ack 1, win 501, options [nop,nop,TS val 120386207 ecr 2364670718], length 528
+03:15:30.138441 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 129168:129680, ack 1, win 501, options [nop,nop,TS val 120386207 ecr 2364670718], length 512
+03:15:30.138490 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 129680:129744, ack 1, win 501, options [nop,nop,TS val 120386207 ecr 2364670718], length 64
+03:15:30.152835 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 128640, win 3105, options [nop,nop,TS val 2364670821 ecr 120386207], length 0
+03:15:30.152875 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 129168, win 3124, options [nop,nop,TS val 2364670822 ecr 120386207], length 0
+03:15:30.152969 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 129680, win 3143, options [nop,nop,TS val 2364670822 ecr 120386207], length 0
+03:15:30.152969 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 129744, win 3143, options [nop,nop,TS val 2364670822 ecr 120386207], length 0
+03:15:30.242322 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 129744:131072, ack 1, win 501, options [nop,nop,TS val 120386311 ecr 2364670822], length 1328
+03:15:30.256959 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 131072, win 3165, options [nop,nop,TS val 2364670926 ecr 120386311], length 0
+03:15:30.346146 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 131072:131456, ack 1, win 501, options [nop,nop,TS val 120386415 ecr 2364670926], length 384
+03:15:30.360874 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 131456, win 3186, options [nop,nop,TS val 2364671029 ecr 120386415], length 0
+03:15:30.450168 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 131456:131824, ack 1, win 501, options [nop,nop,TS val 120386519 ecr 2364671029], length 368
+03:15:30.464859 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 131824, win 3207, options [nop,nop,TS val 2364671133 ecr 120386519], length 0
+03:15:30.554308 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 131824:132192, ack 1, win 501, options [nop,nop,TS val 120386623 ecr 2364671133], length 368
+03:15:30.568896 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 132192, win 3228, options [nop,nop,TS val 2364671238 ecr 120386623], length 0
+03:15:30.658180 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 132192:132560, ack 1, win 501, options [nop,nop,TS val 120386727 ecr 2364671238], length 368
+03:15:30.672850 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 132560, win 3248, options [nop,nop,TS val 2364671341 ecr 120386727], length 0
+03:15:30.762210 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 132560:132928, ack 1, win 501, options [nop,nop,TS val 120386831 ecr 2364671341], length 368
+03:15:30.776935 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 132928, win 3269, options [nop,nop,TS val 2364671446 ecr 120386831], length 0
+03:15:30.866290 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 132928:133296, ack 1, win 501, options [nop,nop,TS val 120386935 ecr 2364671446], length 368
+03:15:30.880929 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 133296, win 3290, options [nop,nop,TS val 2364671550 ecr 120386935], length 0
+03:15:30.910692 IP 79.110.62.88.55989 > karldrop.462: Flags [S], seq 517531555, win 1024, length 0
+03:15:30.970359 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 133296:133664, ack 1, win 501, options [nop,nop,TS val 120387039 ecr 2364671550], length 368
+03:15:30.970812 IP karldrop.49974 > 67.207.67.2.domain: Flags [S], seq 2633500588, win 64240, options [mss 1460,sackOK,TS val 2264401347 ecr 0,nop,wscale 7,tfo  cookiereq,nop,nop], length 0
+03:15:30.971917 IP 67.207.67.2.domain > karldrop.49974: Flags [S.], seq 1016393081, ack 2633500589, win 65160, options [mss 1460,sackOK,TS val 4162057134 ecr 2264401347,nop,wscale 9], length 0
+03:15:30.971990 IP karldrop.49974 > 67.207.67.2.domain: Flags [.], ack 1, win 502, options [nop,nop,TS val 2264401349 ecr 4162057134], length 0
+03:15:30.972047 IP karldrop.49974 > 67.207.67.2.domain: Flags [P.], seq 1:46, ack 1, win 502, options [nop,nop,TS val 2264401349 ecr 4162057134], length 45 19611+ PTR? 88.62.110.79.in-addr.arpa. (43)
+03:15:30.973147 IP 67.207.67.2.domain > karldrop.49974: Flags [.], ack 46, win 128, options [nop,nop,TS val 4162057135 ecr 2264401349], length 0
+03:15:30.973369 IP 67.207.67.2.domain > karldrop.49974: Flags [P.], seq 1:106, ack 46, win 128, options [nop,nop,TS val 4162057135 ecr 2264401349], length 105 19611 NXDomain 0/1/0 (103)
+03:15:30.973387 IP karldrop.49974 > 67.207.67.2.domain: Flags [.], ack 106, win 502, options [nop,nop,TS val 2264401350 ecr 4162057135], length 0
+03:15:30.974128 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 133664:133824, ack 1, win 501, options [nop,nop,TS val 120387043 ecr 2364671550], length 160
+03:15:30.985011 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 133664, win 3311, options [nop,nop,TS val 2364671654 ecr 120387039], length 0
+03:15:30.988892 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 133824, win 3331, options [nop,nop,TS val 2364671657 ecr 120387043], length 0
+03:15:31.074376 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 133824:135728, ack 1, win 501, options [nop,nop,TS val 120387143 ecr 2364671657], length 1904
+03:15:31.088995 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 135728, win 3361, options [nop,nop,TS val 2364671758 ecr 120387143], length 0
+03:15:31.178164 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 135728:136112, ack 1, win 501, options [nop,nop,TS val 120387247 ecr 2364671758], length 384
+03:15:31.192923 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 136112, win 3384, options [nop,nop,TS val 2364671861 ecr 120387247], length 0
+03:15:31.282210 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 136112:136480, ack 1, win 501, options [nop,nop,TS val 120387351 ecr 2364671861], length 368
+03:15:31.296861 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 136480, win 3406, options [nop,nop,TS val 2364671965 ecr 120387351], length 0
+03:15:31.386161 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 136480:136848, ack 1, win 501, options [nop,nop,TS val 120387455 ecr 2364671965], length 368
+03:15:31.400998 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 136848, win 3429, options [nop,nop,TS val 2364672069 ecr 120387455], length 0
+03:15:31.490232 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 136848:137216, ack 1, win 501, options [nop,nop,TS val 120387559 ecr 2364672069], length 368
+03:15:31.504879 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 137216, win 3452, options [nop,nop,TS val 2364672173 ecr 120387559], length 0
+03:15:31.594266 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 137216:137584, ack 1, win 501, options [nop,nop,TS val 120387663 ecr 2364672173], length 368
+03:15:31.609039 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 137584, win 3474, options [nop,nop,TS val 2364672278 ecr 120387663], length 0
+03:15:31.698301 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 137584:137952, ack 1, win 501, options [nop,nop,TS val 120387767 ecr 2364672278], length 368
+03:15:31.712939 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 137952, win 3497, options [nop,nop,TS val 2364672382 ecr 120387767], length 0
+03:15:31.802262 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 137952:138320, ack 1, win 501, options [nop,nop,TS val 120387871 ecr 2364672382], length 368
+03:15:31.816980 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 138320, win 3519, options [nop,nop,TS val 2364672486 ecr 120387871], length 0
+03:15:31.906307 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 138320:138688, ack 1, win 501, options [nop,nop,TS val 120387975 ecr 2364672486], length 368
+03:15:31.920994 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 138688, win 3542, options [nop,nop,TS val 2364672590 ecr 120387975], length 0
+03:15:32.010323 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 138688:139056, ack 1, win 501, options [nop,nop,TS val 120388079 ecr 2364672590], length 368
+03:15:32.024981 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 139056, win 3565, options [nop,nop,TS val 2364672694 ecr 120388079], length 0
+03:15:32.114389 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 139056:139424, ack 1, win 501, options [nop,nop,TS val 120388183 ecr 2364672694], length 368
+03:15:32.129144 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 139424, win 3587, options [nop,nop,TS val 2364672798 ecr 120388183], length 0
+03:15:32.218153 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 139424:139792, ack 1, win 501, options [nop,nop,TS val 120388287 ecr 2364672798], length 368
+03:15:32.232770 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 139792, win 3610, options [nop,nop,TS val 2364672901 ecr 120388287], length 0
+03:15:32.322237 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 139792:140160, ack 1, win 501, options [nop,nop,TS val 120388391 ecr 2364672901], length 368
+03:15:32.336883 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 140160, win 3633, options [nop,nop,TS val 2364673005 ecr 120388391], length 0
+03:15:32.394490 IP scanner-001.hk2.censys-scanner.com.15222 > karldrop.http: Flags [S], seq 1347786295, win 42340, options [mss 1460,sackOK,TS val 1712929888 ecr 0,nop,wscale 10], length 0
+03:15:32.394571 IP karldrop.http > scanner-001.hk2.censys-scanner.com.15222: Flags [S.], seq 3382408509, ack 1347786296, win 65160, options [mss 1460,sackOK,TS val 4146282121 ecr 1712929888,nop,wscale 7], length 0
+03:15:32.426416 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 140160:140528, ack 1, win 501, options [nop,nop,TS val 120388495 ecr 2364673005], length 368
+03:15:32.426854 IP karldrop.49974 > 67.207.67.2.domain: Flags [P.], seq 46:93, ack 106, win 502, options [nop,nop,TS val 2264402804 ecr 4162057135], length 47 58482+ PTR? 187.154.45.199.in-addr.arpa. (45)
+03:15:32.441037 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 140528, win 3655, options [nop,nop,TS val 2364673110 ecr 120388495], length 0
+03:15:32.451135 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 140528:140992, ack 1, win 501, options [nop,nop,TS val 120388520 ecr 2364673110], length 464
+03:15:32.451455 IP 67.207.67.2.domain > karldrop.49974: Flags [P.], seq 106:201, ack 93, win 128, options [nop,nop,TS val 4162058613 ecr 2264402804], length 95 58482 1/0/0 PTR scanner-001.hk2.censys-scanner.com. (93)
+03:15:32.451478 IP karldrop.49974 > 67.207.67.2.domain: Flags [.], ack 201, win 502, options [nop,nop,TS val 2264402828 ecr 4162058613], length 0
+03:15:32.465787 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 140992, win 3678, options [nop,nop,TS val 2364673134 ecr 120388520], length 0
+03:15:32.530366 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 140992:142256, ack 1, win 501, options [nop,nop,TS val 120388599 ecr 2364673134], length 1264
+03:15:32.545026 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 142256, win 3700, options [nop,nop,TS val 2364673214 ecr 120388599], length 0
+03:15:32.634217 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 142256:142640, ack 1, win 501, options [nop,nop,TS val 120388703 ecr 2364673214], length 384
+03:15:32.648857 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 142640, win 3723, options [nop,nop,TS val 2364673317 ecr 120388703], length 0
+03:15:32.738335 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 142640:143008, ack 1, win 501, options [nop,nop,TS val 120388807 ecr 2364673317], length 368
+03:15:32.753049 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 143008, win 3746, options [nop,nop,TS val 2364673422 ecr 120388807], length 0
+03:15:32.842230 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 143008:143376, ack 1, win 501, options [nop,nop,TS val 120388911 ecr 2364673422], length 368
+03:15:32.856904 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 143376, win 3768, options [nop,nop,TS val 2364673526 ecr 120388911], length 0
+03:15:32.946234 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 143376:143744, ack 1, win 501, options [nop,nop,TS val 120389015 ecr 2364673526], length 368
+03:15:32.960869 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 143744, win 3791, options [nop,nop,TS val 2364673629 ecr 120389015], length 0
+03:15:33.050266 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 143744:144112, ack 1, win 501, options [nop,nop,TS val 120389119 ecr 2364673629], length 368
+03:15:33.064955 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 144112, win 3814, options [nop,nop,TS val 2364673734 ecr 120389119], length 0
+03:15:33.154344 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 144112:144480, ack 1, win 501, options [nop,nop,TS val 120389223 ecr 2364673734], length 368
+03:15:33.168989 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 144480, win 3836, options [nop,nop,TS val 2364673838 ecr 120389223], length 0
+03:15:33.258197 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 144480:144848, ack 1, win 501, options [nop,nop,TS val 120389327 ecr 2364673838], length 368
+03:15:33.272818 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 144848, win 3859, options [nop,nop,TS val 2364673941 ecr 120389327], length 0
+03:15:33.362195 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 144848:145216, ack 1, win 501, options [nop,nop,TS val 120389431 ecr 2364673941], length 368
+03:15:33.376816 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 145216, win 3881, options [nop,nop,TS val 2364674045 ecr 120389431], length 0
+03:15:33.421941 IP karldrop.http > scanner-001.hk2.censys-scanner.com.15222: Flags [S.], seq 3382408509, ack 1347786296, win 65160, options [mss 1460,sackOK,TS val 4146283149 ecr 1712929888,nop,wscale 7], length 0
+03:15:33.466269 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 145216:145808, ack 1, win 501, options [nop,nop,TS val 120389535 ecr 2364674045], length 592
+03:15:33.480897 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 145808, win 3904, options [nop,nop,TS val 2364674149 ecr 120389535], length 0
+03:15:33.570234 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 145808:146176, ack 1, win 501, options [nop,nop,TS val 120389639 ecr 2364674149], length 368
+03:15:33.584885 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 146176, win 3927, options [nop,nop,TS val 2364674254 ecr 120389639], length 0
+03:15:33.674360 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 146176:146544, ack 1, win 501, options [nop,nop,TS val 120389743 ecr 2364674254], length 368
+03:15:33.689062 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 146544, win 3949, options [nop,nop,TS val 2364674358 ecr 120389743], length 0
+03:15:33.778233 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 146544:146912, ack 1, win 501, options [nop,nop,TS val 120389847 ecr 2364674358], length 368
+03:15:33.792933 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 146912, win 3972, options [nop,nop,TS val 2364674462 ecr 120389847], length 0
+03:15:33.882300 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 146912:147280, ack 1, win 501, options [nop,nop,TS val 120389951 ecr 2364674462], length 368
+03:15:33.896971 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 147280, win 3995, options [nop,nop,TS val 2364674566 ecr 120389951], length 0
+03:15:33.986338 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 147280:147648, ack 1, win 501, options [nop,nop,TS val 120390055 ecr 2364674566], length 368
+03:15:34.001003 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 147648, win 4017, options [nop,nop,TS val 2364674670 ecr 120390055], length 0
+03:15:34.029981 IP karldrop.http > hostglobal.plus.52190: Flags [S.], seq 3518907882, ack 2581518265, win 64240, options [mss 1460], length 0
+03:15:34.090203 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 147648:148160, ack 1, win 501, options [nop,nop,TS val 120390159 ecr 2364674670], length 512
+03:15:34.104899 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 148160, win 4040, options [nop,nop,TS val 2364674774 ecr 120390159], length 0
+03:15:34.194264 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 148160:148528, ack 1, win 501, options [nop,nop,TS val 120390263 ecr 2364674774], length 368
+03:15:34.208885 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 148528, win 4062, options [nop,nop,TS val 2364674878 ecr 120390263], length 0
+03:15:34.298183 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 148528:148896, ack 1, win 501, options [nop,nop,TS val 120390367 ecr 2364674878], length 368
+03:15:34.312864 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 148896, win 4085, options [nop,nop,TS val 2364674981 ecr 120390367], length 0
+03:15:34.402344 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 148896:149264, ack 1, win 501, options [nop,nop,TS val 120390471 ecr 2364674981], length 368
+03:15:34.416965 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 149264, win 4108, options [nop,nop,TS val 2364675086 ecr 120390471], length 0
+03:15:34.506114 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 149264:149632, ack 1, win 501, options [nop,nop,TS val 120390575 ecr 2364675086], length 368
+03:15:34.520817 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 149632, win 4130, options [nop,nop,TS val 2364675189 ecr 120390575], length 0
+03:15:34.546149 IP tube-hosting.com.33544 > karldrop.3333: Flags [S], seq 1406884515, win 65535, length 0
+03:15:34.610513 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 149632:150000, ack 1, win 501, options [nop,nop,TS val 120390679 ecr 2364675189], length 368
+03:15:34.610951 IP karldrop.49974 > 67.207.67.2.domain: Flags [P.], seq 93:138, ack 201, win 502, options [nop,nop,TS val 2264404988 ecr 4162058613], length 45 27749+ PTR? 75.212.75.80.in-addr.arpa. (43)
+03:15:34.612297 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 150000:150160, ack 1, win 501, options [nop,nop,TS val 120390681 ecr 2364675189], length 160
+03:15:34.612789 IP 67.207.67.2.domain > karldrop.49974: Flags [P.], seq 201:276, ack 138, win 128, options [nop,nop,TS val 4162060775 ecr 2264404988], length 75 27749 1/0/0 PTR tube-hosting.com. (73)
+03:15:34.612826 IP karldrop.49974 > 67.207.67.2.domain: Flags [.], ack 276, win 502, options [nop,nop,TS val 2264404990 ecr 4162060775], length 0
+03:15:34.625185 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 150000, win 4153, options [nop,nop,TS val 2364675294 ecr 120390679], length 0
+03:15:34.627052 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 150160, win 4176, options [nop,nop,TS val 2364675296 ecr 120390681], length 0
+03:15:34.714400 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 150160:151408, ack 1, win 501, options [nop,nop,TS val 120390783 ecr 2364675296], length 1248
+03:15:34.729139 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 151408, win 4198, options [nop,nop,TS val 2364675398 ecr 120390783], length 0
+03:15:34.818160 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 151408:151792, ack 1, win 501, options [nop,nop,TS val 120390887 ecr 2364675398], length 384
+03:15:34.832759 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 151792, win 4221, options [nop,nop,TS val 2364675501 ecr 120390887], length 0
+03:15:34.922182 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 151792:152160, ack 1, win 501, options [nop,nop,TS val 120390991 ecr 2364675501], length 368
+03:15:34.936828 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 152160, win 4243, options [nop,nop,TS val 2364675605 ecr 120390991], length 0
+03:15:35.026508 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 152160:152528, ack 1, win 501, options [nop,nop,TS val 120391095 ecr 2364675605], length 368
+03:15:35.041220 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 152528, win 4266, options [nop,nop,TS val 2364675710 ecr 120391095], length 0
+03:15:35.130236 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 152528:152896, ack 1, win 501, options [nop,nop,TS val 120391199 ecr 2364675710], length 368
+03:15:35.144857 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 152896, win 4289, options [nop,nop,TS val 2364675813 ecr 120391199], length 0
+03:15:35.145457 IP 26.130.165.103.net.iforte.net.id.6488 > karldrop.ssh: Flags [S], seq 1448171470, win 29200, options [mss 1460,sackOK,TS val 1191965809 ecr 0,nop,wscale 7], length 0
+03:15:35.145520 IP karldrop.ssh > 26.130.165.103.net.iforte.net.id.6488: Flags [S.], seq 539875314, ack 1448171471, win 65160, options [mss 1460,sackOK,TS val 1640823951 ecr 1191965809,nop,wscale 7], length 0
+03:15:35.234396 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 152896:153264, ack 1, win 501, options [nop,nop,TS val 120391303 ecr 2364675813], length 368
+03:15:35.234972 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 153264:153712, ack 1, win 501, options [nop,nop,TS val 120391304 ecr 2364675813], length 448
+03:15:35.235033 IP karldrop.49974 > 67.207.67.2.domain: Flags [P.], seq 138:185, ack 276, win 502, options [nop,nop,TS val 2264405612 ecr 4162060775], length 47 25441+ PTR? 26.130.165.103.in-addr.arpa. (45)
+03:15:35.237089 IP 67.207.67.2.domain > karldrop.49974: Flags [P.], seq 276:369, ack 185, win 128, options [nop,nop,TS val 4162061398 ecr 2264405612], length 93 25441 1/0/0 PTR 26.130.165.103.net.iforte.net.id. (91)
+03:15:35.237125 IP karldrop.49974 > 67.207.67.2.domain: Flags [.], ack 369, win 502, options [nop,nop,TS val 2264405614 ecr 4162061398], length 0
+03:15:35.249592 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 153264, win 4311, options [nop,nop,TS val 2364675918 ecr 120391303], length 0
+03:15:35.249727 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 153712, win 4334, options [nop,nop,TS val 2364675918 ecr 120391304], length 0
+03:15:35.338200 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 153712:154976, ack 1, win 501, options [nop,nop,TS val 120391407 ecr 2364675918], length 1264
+03:15:35.352808 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 154976, win 4357, options [nop,nop,TS val 2364676021 ecr 120391407], length 0
+03:15:35.391466 IP 26.130.165.103.net.iforte.net.id.6488 > karldrop.ssh: Flags [.], ack 1, win 229, options [nop,nop,TS val 1191965870 ecr 1640823951], length 0
+03:15:35.391467 IP 26.130.165.103.net.iforte.net.id.6488 > karldrop.ssh: Flags [P.], seq 1:23, ack 1, win 229, options [nop,nop,TS val 1191965870 ecr 1640823951], length 22: SSH: SSH-2.0-libssh_0.9.6
+03:15:35.391546 IP karldrop.ssh > 26.130.165.103.net.iforte.net.id.6488: Flags [.], ack 23, win 509, options [nop,nop,TS val 1640824197 ecr 1191965870], length 0
+03:15:35.403129 IP karldrop.ssh > 26.130.165.103.net.iforte.net.id.6488: Flags [P.], seq 1:42, ack 23, win 509, options [nop,nop,TS val 1640824209 ecr 1191965870], length 41: SSH: SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.6
+03:15:35.437985 IP karldrop.http > scanner-001.hk2.censys-scanner.com.15222: Flags [S.], seq 3382408509, ack 1347786296, win 65160, options [mss 1460,sackOK,TS val 4146285165 ecr 1712929888,nop,wscale 7], length 0
+03:15:35.442281 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 154976:156320, ack 1, win 501, options [nop,nop,TS val 120391511 ecr 2364676021], length 1344
+03:15:35.456976 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 156320, win 4379, options [nop,nop,TS val 2364676126 ecr 120391511], length 0
+03:15:35.546277 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 156320:156704, ack 1, win 501, options [nop,nop,TS val 120391615 ecr 2364676126], length 384
+03:15:35.560870 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 156704, win 4402, options [nop,nop,TS val 2364676230 ecr 120391615], length 0
+03:15:35.648105 IP 26.130.165.103.net.iforte.net.id.6488 > karldrop.ssh: Flags [.], ack 42, win 229, options [nop,nop,TS val 1191965935 ecr 1640824209], length 0
+03:15:35.648164 IP karldrop.ssh > 26.130.165.103.net.iforte.net.id.6488: Flags [P.], seq 42:1154, ack 23, win 509, options [nop,nop,TS val 1640824454 ecr 1191965935], length 1112
+03:15:35.648199 IP 26.130.165.103.net.iforte.net.id.6488 > karldrop.ssh: Flags [P.], seq 23:999, ack 42, win 229, options [nop,nop,TS val 1191965935 ecr 1640824209], length 976
+03:15:35.650317 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 156704:157600, ack 1, win 501, options [nop,nop,TS val 120391719 ecr 2364676230], length 896
+03:15:35.665018 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 157600, win 4424, options [nop,nop,TS val 2364676334 ecr 120391719], length 0
+03:15:35.689933 IP karldrop.ssh > 26.130.165.103.net.iforte.net.id.6488: Flags [.], ack 999, win 502, options [nop,nop,TS val 1640824496 ecr 1191965935], length 0
+03:15:35.754202 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 157600:158144, ack 1, win 501, options [nop,nop,TS val 120391823 ecr 2364676334], length 544
+03:15:35.768861 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 158144, win 4447, options [nop,nop,TS val 2364676437 ecr 120391823], length 0
+03:15:35.858260 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 158144:158512, ack 1, win 501, options [nop,nop,TS val 120391927 ecr 2364676437], length 368
+03:15:35.872901 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 158512, win 4470, options [nop,nop,TS val 2364676542 ecr 120391927], length 0
+03:15:35.931967 IP 26.130.165.103.net.iforte.net.id.6488 > karldrop.ssh: Flags [.], ack 1154, win 246, options [nop,nop,TS val 1191966006 ecr 1640824454], length 0
+03:15:35.934861 IP 26.130.165.103.net.iforte.net.id.6488 > karldrop.ssh: Flags [P.], seq 999:1047, ack 1154, win 246, options [nop,nop,TS val 1191966006 ecr 1640824496], length 48
+03:15:35.934902 IP karldrop.ssh > 26.130.165.103.net.iforte.net.id.6488: Flags [.], ack 1047, win 502, options [nop,nop,TS val 1640824741 ecr 1191966006], length 0
+03:15:35.941014 IP karldrop.ssh > 26.130.165.103.net.iforte.net.id.6488: Flags [P.], seq 1154:1686, ack 1047, win 502, options [nop,nop,TS val 1640824747 ecr 1191966006], length 532
+03:15:35.962468 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 158512:159584, ack 1, win 501, options [nop,nop,TS val 120392031 ecr 2364676542], length 1072
+03:15:35.977109 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 159584, win 4492, options [nop,nop,TS val 2364676646 ecr 120392031], length 0
+03:15:36.066214 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 159584:159968, ack 1, win 501, options [nop,nop,TS val 120392135 ecr 2364676646], length 384
+03:15:36.080841 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 159968, win 4515, options [nop,nop,TS val 2364676749 ecr 120392135], length 0
+03:15:36.170257 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 159968:160336, ack 1, win 501, options [nop,nop,TS val 120392239 ecr 2364676749], length 368
+03:15:36.184911 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 160336, win 4538, options [nop,nop,TS val 2364676853 ecr 120392239], length 0
+03:15:36.185938 IP 26.130.165.103.net.iforte.net.id.6488 > karldrop.ssh: Flags [.], ack 1686, win 263, options [nop,nop,TS val 1191966069 ecr 1640824747], length 0
+03:15:36.186081 IP 26.130.165.103.net.iforte.net.id.6488 > karldrop.ssh: Flags [P.], seq 1047:1063, ack 1686, win 263, options [nop,nop,TS val 1191966069 ecr 1640824747], length 16
+03:15:36.230017 IP karldrop.ssh > 26.130.165.103.net.iforte.net.id.6488: Flags [.], ack 1063, win 502, options [nop,nop,TS val 1640825036 ecr 1191966069], length 0
+03:15:36.274135 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 160336:161216, ack 1, win 501, options [nop,nop,TS val 120392343 ecr 2364676853], length 880
+03:15:36.288819 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 161216, win 4560, options [nop,nop,TS val 2364676957 ecr 120392343], length 0
+03:15:36.378165 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 161216:161584, ack 1, win 501, options [nop,nop,TS val 120392447 ecr 2364676957], length 368
+03:15:36.392764 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 161584, win 4583, options [nop,nop,TS val 2364677061 ecr 120392447], length 0
+03:15:36.476070 IP 26.130.165.103.net.iforte.net.id.6488 > karldrop.ssh: Flags [P.], seq 1063:1115, ack 1686, win 263, options [nop,nop,TS val 1191966142 ecr 1640825036], length 52
+03:15:36.476118 IP karldrop.ssh > 26.130.165.103.net.iforte.net.id.6488: Flags [.], ack 1115, win 502, options [nop,nop,TS val 1640825282 ecr 1191966142], length 0
+03:15:36.476235 IP karldrop.ssh > 26.130.165.103.net.iforte.net.id.6488: Flags [P.], seq 1686:1738, ack 1115, win 502, options [nop,nop,TS val 1640825282 ecr 1191966142], length 52
+03:15:36.482249 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 161584:162496, ack 1, win 501, options [nop,nop,TS val 120392551 ecr 2364677061], length 912
+03:15:36.496795 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 162496, win 4605, options [nop,nop,TS val 2364677165 ecr 120392551], length 0
+03:15:36.586225 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 162496:162864, ack 1, win 501, options [nop,nop,TS val 120392655 ecr 2364677165], length 368
+03:15:36.600859 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 162864, win 4628, options [nop,nop,TS val 2364677269 ecr 120392655], length 0
+03:15:36.690181 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 162864:163232, ack 1, win 501, options [nop,nop,TS val 120392759 ecr 2364677269], length 368
+03:15:36.704904 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 163232, win 4651, options [nop,nop,TS val 2364677373 ecr 120392759], length 0
+03:15:36.721300 IP 26.130.165.103.net.iforte.net.id.6488 > karldrop.ssh: Flags [P.], seq 1115:1215, ack 1738, win 263, options [nop,nop,TS val 1191966203 ecr 1640825282], length 100
+03:15:36.761898 IP karldrop.ssh > 26.130.165.103.net.iforte.net.id.6488: Flags [.], ack 1215, win 502, options [nop,nop,TS val 1640825568 ecr 1191966203], length 0
+03:15:36.794300 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 163232:163952, ack 1, win 501, options [nop,nop,TS val 120392863 ecr 2364677373], length 720
+03:15:36.808988 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 163952, win 4673, options [nop,nop,TS val 2364677478 ecr 120392863], length 0
+03:15:36.898284 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 163952:164320, ack 1, win 501, options [nop,nop,TS val 120392967 ecr 2364677478], length 368
+03:15:36.912961 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 164320, win 4696, options [nop,nop,TS val 2364677582 ecr 120392967], length 0
+03:15:37.002264 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 164320:164688, ack 1, win 501, options [nop,nop,TS val 120393071 ecr 2364677582], length 368
+03:15:37.016924 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 164688, win 4719, options [nop,nop,TS val 2364677685 ecr 120393071], length 0
+03:15:37.106244 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 164688:165056, ack 1, win 501, options [nop,nop,TS val 120393175 ecr 2364677685], length 368
+03:15:37.120901 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 165056, win 4741, options [nop,nop,TS val 2364677789 ecr 120393175], length 0
+03:15:37.210226 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 165056:165424, ack 1, win 501, options [nop,nop,TS val 120393279 ecr 2364677789], length 368
+03:15:37.225026 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 165424, win 4764, options [nop,nop,TS val 2364677894 ecr 120393279], length 0
+03:15:37.314353 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 165424:165792, ack 1, win 501, options [nop,nop,TS val 120393383 ecr 2364677894], length 368
+03:15:37.329001 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 165792, win 4786, options [nop,nop,TS val 2364677998 ecr 120393383], length 0
+03:15:37.418201 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 165792:166160, ack 1, win 501, options [nop,nop,TS val 120393487 ecr 2364677998], length 368
+03:15:37.422895 IP 67.207.67.2.domain > karldrop.49974: Flags [F.], seq 369, ack 185, win 128, options [nop,nop,TS val 4162063585 ecr 2264405614], length 0
+03:15:37.423050 IP karldrop.49974 > 67.207.67.2.domain: Flags [F.], seq 185, ack 370, win 502, options [nop,nop,TS val 2264407800 ecr 4162063585], length 0
+03:15:37.424021 IP 67.207.67.2.domain > karldrop.49974: Flags [.], ack 186, win 128, options [nop,nop,TS val 4162063586 ecr 2264407800], length 0
+03:15:37.432823 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 166160, win 4809, options [nop,nop,TS val 2364678101 ecr 120393487], length 0
+03:15:37.522195 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 166160:166992, ack 1, win 501, options [nop,nop,TS val 120393591 ecr 2364678101], length 832
+03:15:37.536871 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 166992, win 4832, options [nop,nop,TS val 2364678205 ecr 120393591], length 0
+03:15:37.626173 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 166992:167360, ack 1, win 501, options [nop,nop,TS val 120393695 ecr 2364678205], length 368
+03:15:37.640864 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 167360, win 4854, options [nop,nop,TS val 2364678309 ecr 120393695], length 0
+03:15:37.730254 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 167360:167728, ack 1, win 501, options [nop,nop,TS val 120393799 ecr 2364678309], length 368
+03:15:37.744868 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 167728, win 4877, options [nop,nop,TS val 2364678413 ecr 120393799], length 0
+03:15:37.834267 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 167728:168096, ack 1, win 501, options [nop,nop,TS val 120393903 ecr 2364678413], length 368
+03:15:37.849051 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 168096, win 4900, options [nop,nop,TS val 2364678518 ecr 120393903], length 0
+03:15:37.938269 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 168096:168464, ack 1, win 501, options [nop,nop,TS val 120394007 ecr 2364678518], length 368
+03:15:37.952979 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 168464, win 4922, options [nop,nop,TS val 2364678622 ecr 120394007], length 0
+03:15:38.042207 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 168464:168832, ack 1, win 501, options [nop,nop,TS val 120394111 ecr 2364678622], length 368
+03:15:38.056831 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 168832, win 4945, options [nop,nop,TS val 2364678725 ecr 120394111], length 0
+03:15:38.146176 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 168832:169200, ack 1, win 501, options [nop,nop,TS val 120394215 ecr 2364678725], length 368
+03:15:38.160885 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 169200, win 4967, options [nop,nop,TS val 2364678829 ecr 120394215], length 0
+03:15:38.250237 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 169200:169568, ack 1, win 501, options [nop,nop,TS val 120394319 ecr 2364678829], length 368
+03:15:38.265232 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 169568, win 4990, options [nop,nop,TS val 2364678933 ecr 120394319], length 0
+03:15:38.354272 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 169568:169936, ack 1, win 501, options [nop,nop,TS val 120394423 ecr 2364678933], length 368
+03:15:38.369257 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 169936, win 5013, options [nop,nop,TS val 2364679038 ecr 120394423], length 0
+03:15:38.458237 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 169936:170304, ack 1, win 501, options [nop,nop,TS val 120394527 ecr 2364679038], length 368
+03:15:38.472915 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 170304, win 5035, options [nop,nop,TS val 2364679142 ecr 120394527], length 0
+03:15:38.562245 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 170304:170672, ack 1, win 501, options [nop,nop,TS val 120394631 ecr 2364679142], length 368
+03:15:38.576903 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 170672, win 5058, options [nop,nop,TS val 2364679245 ecr 120394631], length 0
+03:15:38.666230 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 170672:171040, ack 1, win 501, options [nop,nop,TS val 120394735 ecr 2364679245], length 368
+03:15:38.680880 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 171040, win 5081, options [nop,nop,TS val 2364679349 ecr 120394735], length 0
+03:15:38.770220 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 171040:171408, ack 1, win 501, options [nop,nop,TS val 120394839 ecr 2364679349], length 368
+03:15:38.784887 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 171408, win 5103, options [nop,nop,TS val 2364679453 ecr 120394839], length 0
+03:15:38.874148 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 171408:171776, ack 1, win 501, options [nop,nop,TS val 120394943 ecr 2364679453], length 368
+03:15:38.888794 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 171776, win 5126, options [nop,nop,TS val 2364679557 ecr 120394943], length 0
+03:15:38.978242 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 171776:172144, ack 1, win 501, options [nop,nop,TS val 120395047 ecr 2364679557], length 368
+03:15:38.992849 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 172144, win 5148, options [nop,nop,TS val 2364679661 ecr 120395047], length 0
+03:15:39.082123 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 172144:172512, ack 1, win 501, options [nop,nop,TS val 120395151 ecr 2364679661], length 368
+03:15:39.096824 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 172512, win 5171, options [nop,nop,TS val 2364679765 ecr 120395151], length 0
+03:15:39.186155 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 172512:172880, ack 1, win 501, options [nop,nop,TS val 120395255 ecr 2364679765], length 368
+03:15:39.200841 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 172880, win 5194, options [nop,nop,TS val 2364679869 ecr 120395255], length 0
+03:15:39.290086 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 172880:173248, ack 1, win 501, options [nop,nop,TS val 120395359 ecr 2364679869], length 368
+03:15:39.304746 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 173248, win 5216, options [nop,nop,TS val 2364679973 ecr 120395359], length 0
+03:15:39.394119 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 173248:173616, ack 1, win 501, options [nop,nop,TS val 120395463 ecr 2364679973], length 368
+03:15:39.408775 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 173616, win 5239, options [nop,nop,TS val 2364680077 ecr 120395463], length 0
+03:15:39.498222 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 173616:173984, ack 1, win 501, options [nop,nop,TS val 120395567 ecr 2364680077], length 368
+03:15:39.512987 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 173984, win 5262, options [nop,nop,TS val 2364680182 ecr 120395567], length 0
+03:15:39.602236 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 173984:174352, ack 1, win 501, options [nop,nop,TS val 120395671 ecr 2364680182], length 368
+03:15:39.617022 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 174352, win 5284, options [nop,nop,TS val 2364680286 ecr 120395671], length 0
+03:15:39.661950 IP karldrop.http > scanner-001.hk2.censys-scanner.com.15222: Flags [S.], seq 3382408509, ack 1347786296, win 65160, options [mss 1460,sackOK,TS val 4146289389 ecr 1712929888,nop,wscale 7], length 0
+03:15:39.706161 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 174352:174944, ack 1, win 501, options [nop,nop,TS val 120395775 ecr 2364680286], length 592
+03:15:39.720878 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 174944, win 5307, options [nop,nop,TS val 2364680389 ecr 120395775], length 0
+03:15:39.810175 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 174944:175312, ack 1, win 501, options [nop,nop,TS val 120395879 ecr 2364680389], length 368
+03:15:39.825009 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 175312, win 5329, options [nop,nop,TS val 2364680493 ecr 120395879], length 0
+03:15:39.914186 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 175312:175680, ack 1, win 501, options [nop,nop,TS val 120395983 ecr 2364680493], length 368
+03:15:39.928799 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 175680, win 5352, options [nop,nop,TS val 2364680597 ecr 120395983], length 0
+03:15:40.018264 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 175680:176048, ack 1, win 501, options [nop,nop,TS val 120396087 ecr 2364680597], length 368
+03:15:40.032899 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 176048, win 5375, options [nop,nop,TS val 2364680702 ecr 120396087], length 0
+03:15:40.122198 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 176048:176416, ack 1, win 501, options [nop,nop,TS val 120396191 ecr 2364680702], length 368
+03:15:40.136911 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 176416, win 5397, options [nop,nop,TS val 2364680805 ecr 120396191], length 0
+03:15:40.226205 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 176416:176784, ack 1, win 501, options [nop,nop,TS val 120396295 ecr 2364680805], length 368
+03:15:40.240896 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 176784, win 5420, options [nop,nop,TS val 2364680909 ecr 120396295], length 0
+03:15:40.330286 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 176784:177152, ack 1, win 501, options [nop,nop,TS val 120396399 ecr 2364680909], length 368
+03:15:40.344910 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 177152, win 5443, options [nop,nop,TS val 2364681014 ecr 120396399], length 0
+03:15:40.434158 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 177152:177520, ack 1, win 501, options [nop,nop,TS val 120396503 ecr 2364681014], length 368
+03:15:40.448894 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 177520, win 5465, options [nop,nop,TS val 2364681117 ecr 120396503], length 0
+03:15:40.538223 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 177520:177888, ack 1, win 501, options [nop,nop,TS val 120396607 ecr 2364681117], length 368
+03:15:40.552969 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 177888, win 5488, options [nop,nop,TS val 2364681221 ecr 120396607], length 0
+03:15:40.642233 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 177888:178256, ack 1, win 501, options [nop,nop,TS val 120396711 ecr 2364681221], length 368
+03:15:40.657657 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 178256, win 5510, options [nop,nop,TS val 2364681326 ecr 120396711], length 0
+03:15:40.737082 IP karldrop.ssh > 26.130.165.103.net.iforte.net.id.6488: Flags [P.], seq 1738:1790, ack 1215, win 502, options [nop,nop,TS val 1640829543 ecr 1191966203], length 52
+03:15:40.746218 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 178256:178816, ack 1, win 501, options [nop,nop,TS val 120396815 ecr 2364681326], length 560
+03:15:40.760958 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 178816, win 5533, options [nop,nop,TS val 2364681430 ecr 120396815], length 0
+03:15:40.850286 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 178816:179184, ack 1, win 501, options [nop,nop,TS val 120396919 ecr 2364681430], length 368
+03:15:40.864981 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 179184, win 5556, options [nop,nop,TS val 2364681534 ecr 120396919], length 0
+03:15:40.925391 IP scanner-205.hk2.censys-scanner.com.42804 > karldrop.http: Flags [S], seq 5777726, win 42340, options [mss 1460,sackOK,TS val 2148611916 ecr 0,nop,wscale 10], length 0
+03:15:40.925465 IP karldrop.http > scanner-205.hk2.censys-scanner.com.42804: Flags [S.], seq 2862906259, ack 5777727, win 65160, options [mss 1460,sackOK,TS val 3689696568 ecr 2148611916,nop,wscale 7], length 0
+03:15:40.954421 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 179184:179552, ack 1, win 501, options [nop,nop,TS val 120397023 ecr 2364681534], length 368
+03:15:40.954907 IP karldrop.55264 > 67.207.67.2.domain: Flags [S], seq 76732740, win 64240, options [mss 1460,sackOK,TS val 2264411332 ecr 0,nop,wscale 7,tfo  cookiereq,nop,nop], length 0
+03:15:40.956062 IP 67.207.67.2.domain > karldrop.55264: Flags [S.], seq 374872399, ack 76732741, win 65160, options [mss 1460,sackOK,TS val 1041474393 ecr 2264411332,nop,wscale 9], length 0
+03:15:40.956119 IP karldrop.55264 > 67.207.67.2.domain: Flags [.], ack 1, win 502, options [nop,nop,TS val 2264411333 ecr 1041474393], length 0
+03:15:40.956174 IP karldrop.55264 > 67.207.67.2.domain: Flags [P.], seq 1:47, ack 1, win 502, options [nop,nop,TS val 2264411333 ecr 1041474393], length 46 4381+ PTR? 67.154.45.199.in-addr.arpa. (44)
+03:15:40.957125 IP 67.207.67.2.domain > karldrop.55264: Flags [.], ack 47, win 128, options [nop,nop,TS val 1041474394 ecr 2264411333], length 0
+03:15:40.958065 IP 67.207.67.2.domain > karldrop.55264: Flags [P.], seq 1:95, ack 47, win 128, options [nop,nop,TS val 1041474395 ecr 2264411333], length 94 4381 1/0/0 PTR scanner-205.hk2.censys-scanner.com. (92)
+03:15:40.958094 IP karldrop.55264 > 67.207.67.2.domain: Flags [.], ack 95, win 502, options [nop,nop,TS val 2264411335 ecr 1041474395], length 0
+03:15:40.958550 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 179552:180016, ack 1, win 501, options [nop,nop,TS val 120397027 ecr 2364681534], length 464
+03:15:40.969066 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 179552, win 5578, options [nop,nop,TS val 2364681638 ecr 120397023], length 0
+03:15:40.973191 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 180016, win 5601, options [nop,nop,TS val 2364681642 ecr 120397027], length 0
+03:15:40.982196 IP 26.130.165.103.net.iforte.net.id.6488 > karldrop.ssh: Flags [P.], seq 1215:1267, ack 1790, win 263, options [nop,nop,TS val 1191967268 ecr 1640829543], length 52
+03:15:40.982197 IP 26.130.165.103.net.iforte.net.id.6488 > karldrop.ssh: Flags [F.], seq 1267, ack 1790, win 263, options [nop,nop,TS val 1191967268 ecr 1640829543], length 0
+03:15:40.982252 IP karldrop.ssh > 26.130.165.103.net.iforte.net.id.6488: Flags [.], ack 1267, win 502, options [nop,nop,TS val 1640829788 ecr 1191967268], length 0
+03:15:40.983877 IP karldrop.ssh > 26.130.165.103.net.iforte.net.id.6488: Flags [F.], seq 1790, ack 1268, win 502, options [nop,nop,TS val 1640829790 ecr 1191967268], length 0
+03:15:41.058361 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 180016:182640, ack 1, win 501, options [nop,nop,TS val 120397127 ecr 2364681642], length 2624
+03:15:41.073037 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 182640, win 5642, options [nop,nop,TS val 2364681742 ecr 120397127], length 0
+03:15:41.142283 IP scanner-205.hk2.censys-scanner.com.42804 > karldrop.http: Flags [.], ack 1, win 42, options [nop,nop,TS val 2148612133 ecr 3689696568], length 0
+03:15:41.162280 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 182640:183184, ack 1, win 501, options [nop,nop,TS val 120397231 ecr 2364681742], length 544
+03:15:41.177016 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 183184, win 5665, options [nop,nop,TS val 2364681846 ecr 120397231], length 0
+03:15:41.229028 IP 26.130.165.103.net.iforte.net.id.6488 > karldrop.ssh: Flags [.], ack 1791, win 263, options [nop,nop,TS val 1191967330 ecr 1640829790], length 0
+03:15:41.266239 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 183184:183728, ack 1, win 501, options [nop,nop,TS val 120397335 ecr 2364681846], length 544
+03:15:41.280892 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 183728, win 5673, options [nop,nop,TS val 2364681950 ecr 120397335], length 0
+03:15:41.370191 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 183728:184096, ack 1, win 501, options [nop,nop,TS val 120397439 ecr 2364681950], length 368
+03:15:41.384955 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 184096, win 5682, options [nop,nop,TS val 2364682054 ecr 120397439], length 0
+03:15:41.474252 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 184096:184464, ack 1, win 501, options [nop,nop,TS val 120397543 ecr 2364682054], length 368
+03:15:41.488954 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 184464, win 5690, options [nop,nop,TS val 2364682158 ecr 120397543], length 0
+03:15:41.578223 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 184464:184832, ack 1, win 501, options [nop,nop,TS val 120397647 ecr 2364682158], length 368
+03:15:41.592847 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 184832, win 5699, options [nop,nop,TS val 2364682261 ecr 120397647], length 0
+03:15:41.682243 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 184832:185200, ack 1, win 501, options [nop,nop,TS val 120397751 ecr 2364682261], length 368
+03:15:41.696852 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 185200, win 5707, options [nop,nop,TS val 2364682365 ecr 120397751], length 0
+03:15:41.786349 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 185200:185568, ack 1, win 501, options [nop,nop,TS val 120397855 ecr 2364682365], length 368
+03:15:41.801112 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 185568, win 5716, options [nop,nop,TS val 2364682470 ecr 120397855], length 0
+03:15:41.890203 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 185568:185936, ack 1, win 501, options [nop,nop,TS val 120397959 ecr 2364682470], length 368
+03:15:41.904925 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 185936, win 5724, options [nop,nop,TS val 2364682573 ecr 120397959], length 0
+03:15:41.994182 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 185936:186304, ack 1, win 501, options [nop,nop,TS val 120398063 ecr 2364682573], length 368
+03:15:42.009044 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 186304, win 5733, options [nop,nop,TS val 2364682677 ecr 120398063], length 0
+03:15:42.098270 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 186304:186672, ack 1, win 501, options [nop,nop,TS val 120398167 ecr 2364682677], length 368
+03:15:42.112979 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 186672, win 5741, options [nop,nop,TS val 2364682782 ecr 120398167], length 0
+03:15:42.202254 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 186672:187040, ack 1, win 501, options [nop,nop,TS val 120398271 ecr 2364682782], length 368
+03:15:42.216868 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 187040, win 5750, options [nop,nop,TS val 2364682885 ecr 120398271], length 0
+03:15:42.222036 IP karldrop.http > hostglobal.plus.52190: Flags [S.], seq 3518907882, ack 2581518265, win 64240, options [mss 1460], length 0
+03:15:42.306198 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 187040:187552, ack 1, win 501, options [nop,nop,TS val 120398375 ecr 2364682885], length 512
+03:15:42.320996 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 187552, win 5758, options [nop,nop,TS val 2364682989 ecr 120398375], length 0
+03:15:42.410246 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 187552:187920, ack 1, win 501, options [nop,nop,TS val 120398479 ecr 2364682989], length 368
+03:15:42.424962 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 187920, win 5767, options [nop,nop,TS val 2364683094 ecr 120398479], length 0
+03:15:42.514214 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 187920:188288, ack 1, win 501, options [nop,nop,TS val 120398583 ecr 2364683094], length 368
+03:15:42.529689 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 188288, win 5775, options [nop,nop,TS val 2364683198 ecr 120398583], length 0
+03:15:42.618209 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 188288:188656, ack 1, win 501, options [nop,nop,TS val 120398687 ecr 2364683198], length 368
+03:15:42.632901 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 188656, win 5784, options [nop,nop,TS val 2364683301 ecr 120398687], length 0
+03:15:42.722282 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 188656:189024, ack 1, win 501, options [nop,nop,TS val 120398791 ecr 2364683301], length 368
+03:15:42.737243 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 189024, win 5792, options [nop,nop,TS val 2364683406 ecr 120398791], length 0
+03:15:42.826241 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 189024:189392, ack 1, win 501, options [nop,nop,TS val 120398895 ecr 2364683406], length 368
+03:15:42.841090 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 189392, win 5801, options [nop,nop,TS val 2364683510 ecr 120398895], length 0
+03:15:42.930235 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 189392:189760, ack 1, win 501, options [nop,nop,TS val 120398999 ecr 2364683510], length 368
+03:15:42.944884 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 189760, win 5809, options [nop,nop,TS val 2364683613 ecr 120398999], length 0
+03:15:43.034213 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 189760:190128, ack 1, win 501, options [nop,nop,TS val 120399103 ecr 2364683613], length 368
+03:15:43.048925 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 190128, win 5813, options [nop,nop,TS val 2364683717 ecr 120399103], length 0
+03:15:43.138194 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 190128:190496, ack 1, win 501, options [nop,nop,TS val 120399207 ecr 2364683717], length 368
+03:15:43.139666 IP 67.207.67.2.domain > karldrop.55264: Flags [F.], seq 95, ack 47, win 128, options [nop,nop,TS val 1041476577 ecr 2264411335], length 0
+03:15:43.139790 IP karldrop.55264 > 67.207.67.2.domain: Flags [F.], seq 47, ack 96, win 502, options [nop,nop,TS val 2264413516 ecr 1041476577], length 0
+03:15:43.141381 IP 67.207.67.2.domain > karldrop.55264: Flags [.], ack 48, win 128, options [nop,nop,TS val 1041476578 ecr 2264413516], length 0
+03:15:43.152896 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 190496, win 5813, options [nop,nop,TS val 2364683821 ecr 120399207], length 0
+03:15:43.242285 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 190496:191328, ack 1, win 501, options [nop,nop,TS val 120399311 ecr 2364683821], length 832
+03:15:43.257029 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 191328, win 5811, options [nop,nop,TS val 2364683926 ecr 120399311], length 0
+03:15:43.346236 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 191328:191696, ack 1, win 501, options [nop,nop,TS val 120399415 ecr 2364683926], length 368
+03:15:43.361348 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 191696, win 5813, options [nop,nop,TS val 2364684030 ecr 120399415], length 0
+03:15:43.395893 IP 185.161.248.247.19498 > karldrop.ssh: Flags [SEW], seq 2437924346, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+03:15:43.395967 IP karldrop.ssh > 185.161.248.247.19498: Flags [S.], seq 3266749578, ack 2437924347, win 64240, options [mss 1460,nop,nop,sackOK,nop,wscale 7], length 0
+03:15:43.450484 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 191696:192064, ack 1, win 501, options [nop,nop,TS val 120399519 ecr 2364684030], length 368
+03:15:43.451089 IP karldrop.55274 > 67.207.67.2.domain: Flags [S], seq 3764355275, win 64240, options [mss 1460,sackOK,TS val 2264413828 ecr 0,nop,wscale 7,tfo  cookiereq,nop,nop], length 0
+03:15:43.452398 IP 67.207.67.2.domain > karldrop.55274: Flags [S.], seq 1181084551, ack 3764355276, win 65160, options [mss 1460,sackOK,TS val 1041476889 ecr 2264413828,nop,wscale 9], length 0
+03:15:43.452463 IP karldrop.55274 > 67.207.67.2.domain: Flags [.], ack 1, win 502, options [nop,nop,TS val 2264413829 ecr 1041476889], length 0
+03:15:43.452521 IP karldrop.55274 > 67.207.67.2.domain: Flags [P.], seq 1:49, ack 1, win 502, options [nop,nop,TS val 2264413829 ecr 1041476889], length 48 50135+ PTR? 247.248.161.185.in-addr.arpa. (46)
+03:15:43.453751 IP 67.207.67.2.domain > karldrop.55274: Flags [.], ack 49, win 128, options [nop,nop,TS val 1041476891 ecr 2264413829], length 0
+03:15:43.453800 IP 67.207.67.2.domain > karldrop.55274: Flags [P.], seq 1:109, ack 49, win 128, options [nop,nop,TS val 1041476891 ecr 2264413829], length 108 50135 NXDomain 0/1/0 (106)
+03:15:43.453934 IP karldrop.55274 > 67.207.67.2.domain: Flags [.], ack 109, win 502, options [nop,nop,TS val 2264413830 ecr 1041476891], length 0
+03:15:43.465206 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 192064, win 5813, options [nop,nop,TS val 2364684134 ecr 120399519], length 0
+03:15:43.528718 IP 185.161.248.247.19498 > karldrop.ssh: Flags [.], ack 1, win 256, length 0
+03:15:43.528718 IP 185.161.248.247.19498 > karldrop.ssh: Flags [P.], seq 1:25, ack 1, win 256, length 24: SSH: SSH-2.0-libssh2_1.11.0
+03:15:43.528798 IP karldrop.ssh > 185.161.248.247.19498: Flags [.], ack 25, win 502, length 0
+03:15:43.534241 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 192064:192448, ack 1, win 501, options [nop,nop,TS val 120399603 ecr 2364684134], length 384
+03:15:43.540387 IP karldrop.ssh > 185.161.248.247.19498: Flags [P.], seq 1:42, ack 25, win 502, length 41: SSH: SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.6
+03:15:43.554302 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 192448:194688, ack 1, win 501, options [nop,nop,TS val 120399623 ecr 2364684134], length 2240
+03:15:43.555473 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 192448, win 5813, options [nop,nop,TS val 2364684224 ecr 120399603], length 0
+03:15:43.569007 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 194688, win 5803, options [nop,nop,TS val 2364684238 ecr 120399623], length 0
+03:15:43.658213 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 194688:195216, ack 1, win 501, options [nop,nop,TS val 120399727 ecr 2364684238], length 528
+03:15:43.671943 IP 185.161.248.247.19498 > karldrop.ssh: Flags [P.], seq 25:1521, ack 42, win 256, length 1496
+03:15:43.672003 IP karldrop.ssh > 185.161.248.247.19498: Flags [P.], seq 42:1154, ack 1521, win 497, length 1112
+03:15:43.680096 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 195216, win 5813, options [nop,nop,TS val 2364684349 ecr 120399727], length 0
+03:15:43.762199 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 195216:195824, ack 1, win 501, options [nop,nop,TS val 120399831 ecr 2364684349], length 608
+03:15:43.787474 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 195824, win 5813, options [nop,nop,TS val 2364684456 ecr 120399831], length 0
+03:15:43.803633 IP 185.161.248.247.19498 > karldrop.ssh: Flags [P.], seq 1521:1569, ack 1154, win 252, length 48
+03:15:43.808334 IP karldrop.ssh > 185.161.248.247.19498: Flags [P.], seq 1154:1758, ack 1569, win 501, length 604
+03:15:43.866240 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 195824:196432, ack 1, win 501, options [nop,nop,TS val 120399935 ecr 2364684456], length 608
+03:15:43.921593 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 196432, win 5813, options [nop,nop,TS val 2364684590 ecr 120399935], length 0
+03:15:43.940158 IP 185.161.248.247.19498 > karldrop.ssh: Flags [P.], seq 1569:1585, ack 1758, win 256, length 16
+03:15:43.970234 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 196432:196928, ack 1, win 501, options [nop,nop,TS val 120400039 ecr 2364684590], length 496
+03:15:43.981989 IP karldrop.ssh > 185.161.248.247.19498: Flags [.], ack 1585, win 501, length 0
+03:15:43.992336 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 196928, win 5813, options [nop,nop,TS val 2364684661 ecr 120400039], length 0
+03:15:44.074188 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 196928:197408, ack 1, win 501, options [nop,nop,TS val 120400143 ecr 2364684661], length 480
+03:15:44.098866 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 197408, win 5813, options [nop,nop,TS val 2364684767 ecr 120400143], length 0
+03:15:44.113538 IP 185.161.248.247.19498 > karldrop.ssh: Flags [P.], seq 1585:1637, ack 1758, win 256, length 52
+03:15:44.113585 IP karldrop.ssh > 185.161.248.247.19498: Flags [.], ack 1637, win 501, length 0
+03:15:44.113700 IP karldrop.ssh > 185.161.248.247.19498: Flags [P.], seq 1758:1810, ack 1637, win 501, length 52
+03:15:44.178299 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 197408:198112, ack 1, win 501, options [nop,nop,TS val 120400247 ecr 2364684767], length 704
+03:15:44.233594 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 198112, win 5813, options [nop,nop,TS val 2364684902 ecr 120400247], length 0
+03:15:44.245262 IP 185.161.248.247.19498 > karldrop.ssh: Flags [P.], seq 1637:1721, ack 1810, win 256, length 84
+03:15:44.269122 IP security.criminalip.com.38384 > karldrop.8406: Flags [S], seq 2367579496, win 65535, options [mss 1460], length 0
+03:15:44.282298 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 198112:198608, ack 1, win 501, options [nop,nop,TS val 120400351 ecr 2364684902], length 496
+03:15:44.282766 IP karldrop.55274 > 67.207.67.2.domain: Flags [P.], seq 49:96, ack 109, win 502, options [nop,nop,TS val 2264414659 ecr 1041476891], length 47 29534+ PTR? 42.226.242.185.in-addr.arpa. (45)
+03:15:44.284461 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 198608:198800, ack 1, win 501, options [nop,nop,TS val 120400353 ecr 2364684902], length 192
+03:15:44.285982 IP karldrop.ssh > 185.161.248.247.19498: Flags [.], ack 1721, win 501, length 0
+03:15:44.301657 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 198800, win 5813, options [nop,nop,TS val 2364684970 ecr 120400351], length 0
+03:15:44.326434 IP 67.207.67.2.domain > karldrop.55274: Flags [.], ack 96, win 128, options [nop,nop,TS val 1041477763 ecr 2264414659], length 0
+03:15:44.386295 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 198800:199792, ack 1, win 501, options [nop,nop,TS val 120400455 ecr 2364684970], length 992
+03:15:44.406407 IP 67.207.67.2.domain > karldrop.55274: Flags [P.], seq 109:193, ack 96, win 128, options [nop,nop,TS val 1041477843 ecr 2264414659], length 84 29534 1/0/0 PTR security.criminalip.com. (82)
+03:15:44.406455 IP karldrop.55274 > 67.207.67.2.domain: Flags [.], ack 193, win 502, options [nop,nop,TS val 2264414783 ecr 1041477843], length 0
+03:15:44.445629 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 199792, win 5813, options [nop,nop,TS val 2364685114 ecr 120400455], length 0
+03:15:44.490233 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 199792:200528, ack 1, win 501, options [nop,nop,TS val 120400559 ecr 2364685114], length 736
+03:15:44.512571 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 200528, win 5813, options [nop,nop,TS val 2364685181 ecr 120400559], length 0
+03:15:44.594237 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 200528:200896, ack 1, win 501, options [nop,nop,TS val 120400663 ecr 2364685181], length 368
+03:15:44.612739 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 200896, win 5813, options [nop,nop,TS val 2364685281 ecr 120400663], length 0
+03:15:44.698267 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 200896:201264, ack 1, win 501, options [nop,nop,TS val 120400767 ecr 2364685281], length 368
+03:15:44.719946 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 201264, win 5813, options [nop,nop,TS val 2364685389 ecr 120400767], length 0
+03:15:44.802255 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 201264:201632, ack 1, win 501, options [nop,nop,TS val 120400871 ecr 2364685389], length 368
+03:15:44.822455 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 201632, win 5813, options [nop,nop,TS val 2364685491 ecr 120400871], length 0
+03:15:44.906232 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 201632:202000, ack 1, win 501, options [nop,nop,TS val 120400975 ecr 2364685491], length 368
+03:15:44.926648 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 202000, win 5813, options [nop,nop,TS val 2364685595 ecr 120400975], length 0
+03:15:45.010307 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 202000:202368, ack 1, win 501, options [nop,nop,TS val 120401079 ecr 2364685595], length 368
+03:15:45.031955 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 202368, win 5813, options [nop,nop,TS val 2364685701 ecr 120401079], length 0
+03:15:45.114156 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 202368:202736, ack 1, win 501, options [nop,nop,TS val 120401183 ecr 2364685701], length 368
+03:15:45.131118 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 202736, win 5813, options [nop,nop,TS val 2364685800 ecr 120401183], length 0
+03:15:45.218303 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 202736:203104, ack 1, win 501, options [nop,nop,TS val 120401287 ecr 2364685800], length 368
+03:15:45.235618 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 203104, win 5813, options [nop,nop,TS val 2364685904 ecr 120401287], length 0
+03:15:45.322165 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 203104:203472, ack 1, win 501, options [nop,nop,TS val 120401391 ecr 2364685904], length 368
+03:15:45.339233 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 203472, win 5813, options [nop,nop,TS val 2364686008 ecr 120401391], length 0
+03:15:45.426274 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 203472:203840, ack 1, win 501, options [nop,nop,TS val 120401495 ecr 2364686008], length 368
+03:15:45.443573 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 203840, win 5813, options [nop,nop,TS val 2364686112 ecr 120401495], length 0
+03:15:45.530187 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 203840:204208, ack 1, win 501, options [nop,nop,TS val 120401599 ecr 2364686112], length 368
+03:15:45.552259 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 204208, win 5813, options [nop,nop,TS val 2364686221 ecr 120401599], length 0
+03:15:45.634352 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 204208:204576, ack 1, win 501, options [nop,nop,TS val 120401703 ecr 2364686221], length 368
+03:15:45.655654 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 204576, win 5813, options [nop,nop,TS val 2364686324 ecr 120401703], length 0
+03:15:45.728997 IP 119.28.111.112.56616 > karldrop.ssh: Flags [S], seq 1572750065, win 29200, options [mss 1424,sackOK,TS val 510343890 ecr 0,nop,wscale 7], length 0
+03:15:45.729072 IP karldrop.ssh > 119.28.111.112.56616: Flags [S.], seq 4088132638, ack 1572750066, win 65160, options [mss 1460,sackOK,TS val 2948223040 ecr 510343890,nop,wscale 7], length 0
+03:15:45.738324 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 204576:204944, ack 1, win 501, options [nop,nop,TS val 120401807 ecr 2364686324], length 368
+03:15:45.738706 IP karldrop.55274 > 67.207.67.2.domain: Flags [P.], seq 96:143, ack 193, win 502, options [nop,nop,TS val 2264416115 ecr 1041477843], length 47 55182+ PTR? 112.111.28.119.in-addr.arpa. (45)
+03:15:45.739973 IP 67.207.67.2.domain > karldrop.55274: Flags [.], ack 143, win 128, options [nop,nop,TS val 1041479177 ecr 2264416115], length 0
+03:15:45.758706 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 204944, win 5813, options [nop,nop,TS val 2364686427 ecr 120401807], length 0
+03:15:45.798527 IP 67.207.67.2.domain > karldrop.55274: Flags [P.], seq 193:240, ack 143, win 128, options [nop,nop,TS val 1041479236 ecr 2264416115], length 47 55182 NXDomain 0/0/0 (45)
+03:15:45.798569 IP karldrop.55274 > 67.207.67.2.domain: Flags [.], ack 240, win 502, options [nop,nop,TS val 2264416175 ecr 1041479236], length 0
+03:15:45.863091 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 204944:206368, ack 1, win 501, options [nop,nop,TS val 120401932 ecr 2364686427], length 1424
+03:15:45.921636 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 206368, win 5813, options [nop,nop,TS val 2364686590 ecr 120401932], length 0
+03:15:45.946261 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 206368:206752, ack 1, win 501, options [nop,nop,TS val 120402015 ecr 2364686590], length 384
+03:15:45.965176 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 206752, win 5813, options [nop,nop,TS val 2364686634 ecr 120402015], length 0
+03:15:45.967525 IP 119.28.111.112.56616 > karldrop.ssh: Flags [.], ack 1, win 229, options [nop,nop,TS val 510344129 ecr 2948223040], length 0
+03:15:45.969052 IP 119.28.111.112.56616 > karldrop.ssh: Flags [P.], seq 1:23, ack 1, win 229, options [nop,nop,TS val 510344131 ecr 2948223040], length 22: SSH: SSH-2.0-libssh_0.9.6
+03:15:45.969087 IP karldrop.ssh > 119.28.111.112.56616: Flags [.], ack 23, win 509, options [nop,nop,TS val 2948223280 ecr 510344131], length 0
+03:15:45.978510 IP karldrop.ssh > 119.28.111.112.56616: Flags [P.], seq 1:42, ack 23, win 509, options [nop,nop,TS val 2948223289 ecr 510344131], length 41: SSH: SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.6
+03:15:46.050249 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 206752:207808, ack 1, win 501, options [nop,nop,TS val 120402119 ecr 2364686634], length 1056
+03:15:46.070190 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 207808, win 5813, options [nop,nop,TS val 2364686739 ecr 120402119], length 0
+03:15:46.154226 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 207808:208192, ack 1, win 501, options [nop,nop,TS val 120402223 ecr 2364686739], length 384
+03:15:46.175469 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 208192, win 5813, options [nop,nop,TS val 2364686844 ecr 120402223], length 0
+03:15:46.216331 IP 119.28.111.112.56616 > karldrop.ssh: Flags [.], ack 42, win 229, options [nop,nop,TS val 510344378 ecr 2948223289], length 0
+03:15:46.216390 IP karldrop.ssh > 119.28.111.112.56616: Flags [P.], seq 42:1154, ack 23, win 509, options [nop,nop,TS val 2948223527 ecr 510344378], length 1112
+03:15:46.217771 IP 119.28.111.112.56616 > karldrop.ssh: Flags [P.], seq 23:999, ack 42, win 229, options [nop,nop,TS val 510344380 ecr 2948223289], length 976
+03:15:46.258003 IP karldrop.ssh > 119.28.111.112.56616: Flags [.], ack 999, win 502, options [nop,nop,TS val 2948223569 ecr 510344380], length 0
+03:15:46.258344 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 208192:209184, ack 1, win 501, options [nop,nop,TS val 120402327 ecr 2364686844], length 992
+03:15:46.288591 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 209184, win 5813, options [nop,nop,TS val 2364686957 ecr 120402327], length 0
+03:15:46.362189 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 209184:209552, ack 1, win 501, options [nop,nop,TS val 120402431 ecr 2364686957], length 368
+03:15:46.380035 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 209552, win 5813, options [nop,nop,TS val 2364687049 ecr 120402431], length 0
+03:15:46.466250 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 209552:209920, ack 1, win 501, options [nop,nop,TS val 120402535 ecr 2364687049], length 368
+03:15:46.487110 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 209920, win 5813, options [nop,nop,TS val 2364687155 ecr 120402535], length 0
+03:15:46.493548 IP 119.28.111.112.56616 > karldrop.ssh: Flags [.], ack 1154, win 246, options [nop,nop,TS val 510344656 ecr 2948223527], length 0
+03:15:46.495840 IP 119.28.111.112.56616 > karldrop.ssh: Flags [P.], seq 999:1047, ack 1154, win 246, options [nop,nop,TS val 510344658 ecr 2948223569], length 48
+03:15:46.495894 IP karldrop.ssh > 119.28.111.112.56616: Flags [.], ack 1047, win 502, options [nop,nop,TS val 2948223807 ecr 510344658], length 0
+03:15:46.502633 IP karldrop.ssh > 119.28.111.112.56616: Flags [P.], seq 1154:1686, ack 1047, win 502, options [nop,nop,TS val 2948223813 ecr 510344658], length 532
+03:15:46.570240 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 209920:210912, ack 1, win 501, options [nop,nop,TS val 120402639 ecr 2364687155], length 992
+03:15:46.602460 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 210912, win 5813, options [nop,nop,TS val 2364687271 ecr 120402639], length 0
+03:15:46.674179 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 210912:211280, ack 1, win 501, options [nop,nop,TS val 120402743 ecr 2364687271], length 368
+03:15:46.696183 IP 198.211.111.194.51520 > karldrop.ssh: Flags [.], ack 211280, win 5813, options [nop,nop,TS val 2364687365 ecr 120402743], length 0
+03:15:46.740441 IP 119.28.111.112.56616 > karldrop.ssh: Flags [.], ack 1686, win 263, options [nop,nop,TS val 510344902 ecr 2948223813], length 0
+03:15:46.740875 IP 119.28.111.112.56616 > karldrop.ssh: Flags [P.], seq 1047:1063, ack 1686, win 263, options [nop,nop,TS val 510344903 ecr 2948223813], length 16
+^C
+1090 packets captured
+1097 packets received by filter

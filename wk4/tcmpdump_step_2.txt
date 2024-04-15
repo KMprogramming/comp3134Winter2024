@@ -1,0 +1,11 @@
+root@karldrop:~# tcpdump -c 5 -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+03:01:47.022745 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 3374733894:3374734038, ack 3314000600, win 501, options [nop,nop,TS val 119563091 ecr 2363847688], length 144
+03:01:47.024272 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 144:272, ack 1, win 501, options [nop,nop,TS val 119563093 ecr 2363847688], length 128
+03:01:47.024338 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 272:416, ack 1, win 501, options [nop,nop,TS val 119563093 ecr 2363847688], length 144
+03:01:47.024372 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 416:496, ack 1, win 501, options [nop,nop,TS val 119563093 ecr 2363847688], length 80
+03:01:47.024404 IP karldrop.ssh > 198.211.111.194.51520: Flags [P.], seq 496:576, ack 1, win 501, options [nop,nop,TS val 119563093 ecr 2363847688], length 80
+5 packets captured
+45 packets received by filter
+0 packets dropped by kernel
