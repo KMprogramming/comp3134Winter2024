@@ -1,0 +1,31 @@
+1.
+
+Domain Name: nba.com
+IP Address: 54.68.182.72
+IP Location: United States - Oregon -  Amazon Technologies Inc.
+
+
+2.
+
+Domain Name: georgebrown.ca
+IP address: 198.96.86.176
+IP location: Canada - Ontario - Toronto - The George Brown College of Applied Arts and Technology
+
+3.
+
+Domain Name: Github.com
+IP: 140.82.116.4
+location: United States - San Fransico , California - GitHub Inc.
+
+4.
+
+Domain Name: google.com
+IP: 142.251.214.142
+Location: United States , California Google LLC
+
+5.
+
+Domain Name: osmows.com
+IP:216.185.212.113
+Location: United States , Florida. BigScoots
+

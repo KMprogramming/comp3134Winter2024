@@ -1,0 +1,14 @@
+$ tracert 159.203.1.214
+
+Tracing route to 159.203.1.214 over a maximum of 30 hops
+
+  1   191 ms     3 ms     3 ms  mynetwork [192.168.2.1]
+  2    34 ms    14 ms     7 ms  142.124.38.84
+  3     *        *        *     Request timed out.
+  4     *        *        *     Request timed out.
+  5    44 ms     7 ms    14 ms  142.124.127.70
+  6     7 ms    19 ms    22 ms  142.124.127.213
+  7     *        4 ms     5 ms  64.230.97.159
+  8     5 ms    29 ms    25 ms  if-ae-9.tcore2.tnk-toronto.as6453.net [63.243.172.25]
+  9     9 ms     5 ms     6 ms  if-ae-15-2.tcore1.tnk-toronto.as6453.net [64.86.33.13]
+ 10     6 ms     6 ms    19 ms  64.86.33.54
